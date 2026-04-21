@@ -1,6 +1,6 @@
 (() => {
   function popupBuilder(burger) {
-    const burgerName = document.createElement("h1");
+    const burgerName = document.createElement("div");
     burgerName.classList.add("burger");
     burgerName.innerText = burger["burger"];
 
@@ -12,7 +12,8 @@
     restaurantName.classList.add("restaurant");
     restaurantName.innerText = burger["restaurant"];
 
-    const address = document.createElement("address");
+    const address = document.createElement("div");
+    address.classList.add("address");
     address.innerHTML = burger["address"];
 
     const wrapper = document.createElement("div");
@@ -39,7 +40,7 @@
   }).addTo(map);
 
   // Load the burger data
-  fetch("../data/burger-bash-2026.json")
+  fetch("data/burger-bash-2026.json")
     .then((res) => res.json())
     .then((data) => {
       data.forEach((burger) => {
