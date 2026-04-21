@@ -16,12 +16,15 @@ body {
 
   .price {
     font-style: italic;
-    text-align: end;
   }
   .restaurant {
     font-size: 1.1rem;
   }
   .address {
     font-style: italic;
+  }
+  img {
+    width: 100%;
+    height: auto;
   }
 }

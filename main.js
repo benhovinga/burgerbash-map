@@ -8,20 +8,35 @@
     burgerPrice.classList.add("price");
     burgerPrice.innerText = burger["price"];
 
+    const image = document.createElement("img");
+    image.loading = "lazy";
+    image.src = burger["image"];
+
+    const moreInfo = document.createElement("div");
+    moreInfo.classList.add("more-info");
+    moreInfo.innerHTML = `<a target="_blank" href="${burger["href"]}">More information</a>`;
+
     const restaurantName = document.createElement("div");
     restaurantName.classList.add("restaurant");
     restaurantName.innerText = burger["restaurant"];
 
     const address = document.createElement("div");
     address.classList.add("address");
-    address.innerHTML = burger["address"];
+    address.innerText = burger["address"];
+
+    const directions = document.createElement("div");
+    directions.classList.add("directions");
+    directions.innerHTML = `<a target="_blank" href="https://www.google.com/maps/dir/?api=1&destination=${burger["latitude"]},${burger["longitude"]}">Get Directions</a>`;
 
     const wrapper = document.createElement("div");
     wrapper.classList.add("burger-popup");
     wrapper.appendChild(burgerName);
     wrapper.appendChild(burgerPrice);
+    wrapper.appendChild(image);
+    wrapper.appendChild(moreInfo);
     wrapper.appendChild(restaurantName);
     wrapper.appendChild(address);
+    wrapper.appendChild(directions);
 
     return wrapper;
   }
