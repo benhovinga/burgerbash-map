@@ -47,6 +47,9 @@
     zoom: 10,
   });
 
+  // Zoom to user location (requires location services)
+  map.locate({ setView: true, maxZoom: 14 });
+
   // Add base OSM tile layer
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
