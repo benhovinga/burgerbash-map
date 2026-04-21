@@ -206,8 +206,8 @@
     "friendly-address": "48 Peggy's Point Road, Peggy's Cove, Nova Scotia B3Z 3S2",
     "address": "48 Peggy's Point Road, Peggy's Cove, Nova Scotia B3Z 3S2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/FINAL-burger-pic-Scott-520x397.jpg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.49565175",
+    "latitude": "-63.9143805"
   },
   {
     "href": "https://burgerbash.ca/burgers/bud-the-spud/",
@@ -716,8 +716,8 @@
     "friendly-address": "1341 Lower Water St Unit 125, Halifax, NS B3J 3S8",
     "address": "1341 Lower Water St Unit 125, Halifax, NS B3J 3S8",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Matadora-Toro-Bravo-520x397.jpg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.6429859",
+    "latitude": "-63.5681239"
   },
   {
     "href": "https://burgerbash.ca/burgers/maxwells/",
@@ -793,11 +793,11 @@
     "href": "https://burgerbash.ca/burgers/nha-cafe/",
     "burgername": "Sous Vide Double Bacon Bosun Cheese Burger * $22",
     "title": "Nha CafÃ©",
-    "friendly-address": "205 Beford Highway, Halifax, N.S.",
-    "address": "205 Beford Highway, Halifax, N.S.",
+    "friendly-address": "205 Bedford Highway, Halifax, N.S.",
+    "address": "205 Bedford Highway, Halifax, N.S.",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/IMG_0872-Harold-Knickle-520x397.jpeg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.67538825",
+    "latitude": "-63.6472817"
   },
   {
     "href": "https://burgerbash.ca/burgers/niche-lounge/",
@@ -876,8 +876,8 @@
     "friendly-address": "1715 Lower Water St #134, Halifax, NS B3J 0J4",
     "address": "1715 Lower Water St #134, Halifax, NS B3J 0J4",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Screenshot-2026-04-14-at-12.26.17-520x397.png",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.648325",
+    "latitude": "-63.5713211"
   },
   {
     "href": "https://burgerbash.ca/burgers/peppercorns-eatery-bedford/",
@@ -986,8 +986,8 @@
     "friendly-address": "104-540 Southgate drive, Bedford, NS",
     "address": "104-540 Southgate drive, Bedford, NS",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Rivaaj-burger-pic-520x397.jpg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.7019109",
+    "latitude": "-63.6779678"
   },
   {
     "href": "https://burgerbash.ca/burgers/roys-restaurant/",
@@ -1096,8 +1096,8 @@
     "friendly-address": "27 Dellridge Lane, Larry Uteck",
     "address": "27 Dellridge Lane, Larry Uteck",
     "image": "https://burgerbash.ca/wp-content/uploads/2025/03/IMG_1640-Marcy-Graves-520x397.jpeg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.7019471",
+    "latitude": "-63.6878532"
   },
   {
     "href": "https://burgerbash.ca/burgers/sou-wester-restaurant-peggys-cove/",
@@ -1213,11 +1213,11 @@
     "href": "https://burgerbash.ca/burgers/the-beavers-den-halifax/",
     "burgername": "The Dipper * $20",
     "title": "The Beaverâs Den Halifax",
-    "friendly-address": "",
-    "address": "",
+    "friendly-address": "6273 Quinpool Rd, Halifax, NS B3L 1A4",
+    "address": "6273 Quinpool Rd, Halifax, NS B3L 1A4",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/a60a4ab0-40d9-461d-be31-2c9bed7e018c-Imen-Barics-520x397.jpeg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.6453231",
+    "latitude": "-63.5980613"
   },
   {
     "href": "https://burgerbash.ca/burgers/the-bicycle-thief/",
@@ -1436,8 +1436,8 @@
     "friendly-address": "1341 Lower Water St Unit 126, Halifax, NS B3J 3Z2",
     "address": "1341 Lower Water St Unit 126, Halifax, NS B3J 3Z2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/WaterPolo-Surf-Club-520x397.jpg",
-    "longitude": null,
-    "latitude": null
+    "longitude": "44.6428999",
+    "latitude": "-63.5682135"
   },
   {
     "href": "https://burgerbash.ca/burgers/wave-foods-at-the-local/",
