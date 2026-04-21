@@ -41,14 +41,16 @@
     return wrapper;
   }
 
+  const burgerIcon = L.icon({
+    iconUrl: "img/burger-bash-icon.webp",
+    iconSize: [32, 50],
+  });
+
   // Initialize map
   const map = L.map("map", {
     center: [44.6638, -63.5851],
-    zoom: 10,
+    zoom: 11,
   });
-
-  // Zoom to user location (requires location services)
-  map.locate({ setView: true, maxZoom: 14 });
 
   // Add base OSM tile layer
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -65,9 +67,13 @@
         // Add burger marker to the map
         let marker = L.marker([burger["latitude"], burger["longitude"]], {
           alt: burger["restaurant "],
+          icon: burgerIcon,
         }).addTo(map);
         // Bind popup message
         marker.bindPopup(popupBuilder(burger));
       });
     });
+
+  // Zoom to user location (requires location services)
+  map.locate({ setView: true, maxZoom: 14 });
 })();
