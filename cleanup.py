@@ -28,7 +28,14 @@ for listing in listings:
     if "*" in burgername:
         name, raw_price = burgername.split("*", 1)
         listing["burgername"] = name.strip()
-        listing["price"] = raw_price.strip()
+        # Extract numeric value, normalize to 2 decimal places, restore currency symbol
+        match = re.search(r"([\$€£]?)\s*([\d,]+(?:\.\d+)?)", raw_price.strip())
+        if match:
+            symbol = match.group(1)
+            amount = float(match.group(2).replace(",", ""))
+            listing["price"] = f"{symbol}{amount:.2f}"
+        else:
+            listing["price"] = raw_price.strip()
     else:
         listing["price"] = None
 

@@ -6,7 +6,7 @@
     "longitude": "-63.5626061",
     "latitude": "44.7052262",
     "restaurant": "2 Doors Down Food + Wine Dartmouth",
-    "price": "$24",
+    "price": "$24.00",
     "burger": "Triple Pickle Deluxe Smash"
   },
   {
@@ -16,7 +16,7 @@
     "longitude": "-63.5695491",
     "latitude": "44.6433886",
     "restaurant": "Afrite",
-    "price": "$17",
+    "price": "$17.00",
     "burger": "Chicken n Waffle Burger"
   },
   {
@@ -46,7 +46,7 @@
     "longitude": "-63.6029605",
     "latitude": "44.6438399",
     "restaurant": "Armview Restaurant & Lounge",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "The Italian Job"
   },
   {
@@ -66,7 +66,7 @@
     "longitude": "-63.5714529",
     "latitude": "44.6479642",
     "restaurant": "Bar Sofia",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "Halifax Beef Bandito Burger"
   },
   {
@@ -76,7 +76,7 @@
     "longitude": "-63.5739949",
     "latitude": "44.6469104",
     "restaurant": "Bar Stillwell",
-    "price": "$19",
+    "price": "$19.00",
     "burger": "The Swine and Cheese"
   },
   {
@@ -96,7 +96,7 @@
     "longitude": "-63.5738573",
     "latitude": "44.6501335",
     "restaurant": "Baton Rouge Grillhouse & Bar",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Maple Rage"
   },
   {
@@ -116,7 +116,7 @@
     "longitude": "-63.6569181",
     "latitude": "44.7354407",
     "restaurant": "Bedford Neighbourhood Pub",
-    "price": "$16",
+    "price": "$16.00",
     "burger": "Count Garlica"
   },
   {
@@ -156,7 +156,7 @@
     "longitude": "-63.5702963",
     "latitude": "44.6443104",
     "restaurant": "Black Sheep",
-    "price": "$26.5",
+    "price": "$26.50",
     "burger": "Beef Dip Smash Burger"
   },
   {
@@ -186,7 +186,7 @@
     "longitude": "-63.4936899",
     "latitude": "44.60993737",
     "restaurant": "Boondocks Restaurant",
-    "price": "$18",
+    "price": "$18.00",
     "burger": "La Poutine Burger"
   },
   {
@@ -196,7 +196,7 @@
     "longitude": "-63.57233873",
     "latitude": "44.67537625",
     "restaurant": "Brightwood Golf and Country Club",
-    "price": "$19",
+    "price": "$19.00",
     "burger": "Char Siu Burger"
   },
   {
@@ -206,7 +206,7 @@
     "longitude": "-63.9143805",
     "latitude": "44.49565175",
     "restaurant": "Bubba Magoos BISTRO",
-    "price": "$26",
+    "price": "$26.00",
     "burger": "The Bubba Burger"
   },
   {
@@ -226,7 +226,7 @@
     "longitude": "-63.5716907",
     "latitude": "44.6487655",
     "restaurant": "CafÃ© Lunette",
-    "price": "$28",
+    "price": "$28.00",
     "burger": "Le SacrÃ© Bleu Burger"
   },
   {
@@ -236,7 +236,7 @@
     "longitude": "-63.57585463",
     "latitude": "44.65308619",
     "restaurant": "Casino Nova Scotia 3Sixty Restaurant",
-    "price": "$15",
+    "price": "$15.00",
     "burger": "The Royal Flush"
   },
   {
@@ -266,7 +266,7 @@
     "longitude": "-63.591333",
     "latitude": "44.6468438",
     "restaurant": "Cheeky Neighbour",
-    "price": "$12",
+    "price": "$12.00",
     "burger": "Green Egg and Ham"
   },
   {
@@ -276,7 +276,7 @@
     "longitude": "-63.6559444",
     "latitude": "44.6637996",
     "restaurant": "Cheese Curds Gourmet Burgers + Poutinerie Lacewood",
-    "price": "$5",
+    "price": "$5.00",
     "burger": "The Spicy Chicken Mini"
   },
   {
@@ -286,7 +286,7 @@
     "longitude": "-63.678296",
     "latitude": "44.7013775",
     "restaurant": "Cheese Curds Gourmet Burgers + Poutinerie Larry Uteck",
-    "price": "$5",
+    "price": "$5.00",
     "burger": "The Spicy Chicken Mini"
   },
   {
@@ -296,7 +296,7 @@
     "longitude": "-63.5457332",
     "latitude": "44.6481849",
     "restaurant": "Cheese Curds Gourmet Burgers + Poutinerie Pleasant St",
-    "price": "$5",
+    "price": "$5.00",
     "burger": "The Spicy Chicken Mini"
   },
   {
@@ -306,7 +306,7 @@
     "longitude": "-63.57920589",
     "latitude": "44.64273262",
     "restaurant": "Chicking",
-    "price": "$18",
+    "price": "$18.00",
     "burger": "Crunchy Grilled Buldak Sandwich"
   },
   {
@@ -336,7 +336,7 @@
     "longitude": "-63.56842816",
     "latitude": "44.64296971",
     "restaurant": "CrÃ¨me",
-    "price": "$17",
+    "price": "$17.00",
     "burger": "The Harvest Burger"
   },
   {
@@ -356,7 +356,7 @@
     "longitude": "-63.5714529",
     "latitude": "44.6479642",
     "restaurant": "DaryÃ¢",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Lamb-Borghini Burger"
   },
   {
@@ -366,7 +366,7 @@
     "longitude": "-63.7709531",
     "latitude": "44.7538722",
     "restaurant": "Deerfield Pub",
-    "price": "$24",
+    "price": "$24.00",
     "burger": "Firecracker"
   },
   {
@@ -376,7 +376,7 @@
     "longitude": "-63.57523457",
     "latitude": "44.6464175",
     "restaurant": "Dessert Yard",
-    "price": "$18",
+    "price": "$18.00",
     "burger": "Double Smash Flat Burger"
   },
   {
@@ -386,7 +386,7 @@
     "longitude": "-63.5357752",
     "latitude": "44.6801854",
     "restaurant": "Doolittles Sports Bar",
-    "price": "$13",
+    "price": "$13.00",
     "burger": "Candy Shroom Boom"
   },
   {
@@ -396,7 +396,7 @@
     "longitude": "-63.5714529",
     "latitude": "44.6479642",
     "restaurant": "Drift",
-    "price": "$26",
+    "price": "$26.00",
     "burger": "The Buzzy Boeuf"
   },
   {
@@ -406,7 +406,7 @@
     "longitude": "-63.5742029",
     "latitude": "44.6462086",
     "restaurant": "Durty Nelly’s",
-    "price": "$21",
+    "price": "$21.00",
     "burger": "Nelly's Jam Session"
   },
   {
@@ -416,7 +416,7 @@
     "longitude": "-63.5742306",
     "latitude": "44.6464891",
     "restaurant": "Economy Shoe Shop",
-    "price": "$13",
+    "price": "$13.00",
     "burger": "The Big Pickl'd Ricky"
   },
   {
@@ -426,7 +426,7 @@
     "longitude": "-63.5933572",
     "latitude": "44.6508658",
     "restaurant": "Eliot & Vine",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "A Strog of Genius"
   },
   {
@@ -496,7 +496,7 @@
     "longitude": "-63.574787",
     "latitude": "44.6460372",
     "restaurant": "Gahan House Nova Centre",
-    "price": "$19",
+    "price": "$19.00",
     "burger": "The Nova Smash"
   },
   {
@@ -506,7 +506,7 @@
     "longitude": "-63.5761065",
     "latitude": "44.6473400",
     "restaurant": "Gio",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "The We're All In Burger"
   },
   {
@@ -516,7 +516,7 @@
     "longitude": "-63.5767840",
     "latitude": "44.6507011",
     "restaurant": "Harbour City",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Halifax Reuben Burger"
   },
   {
@@ -556,7 +556,7 @@
     "longitude": "-63.675067",
     "latitude": "44.6472369",
     "restaurant": "Jungle Jim’s Eatery",
-    "price": "$10",
+    "price": "$10.00",
     "burger": "1/4lb Smashed Burger"
   },
   {
@@ -566,7 +566,7 @@
     "longitude": "-63.5793144",
     "latitude": "44.6425476",
     "restaurant": "Kai Brady’s | Fancy DiveBar",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "PHILLY CHEESESTEAK BURGER"
   },
   {
@@ -616,7 +616,7 @@
     "longitude": "-63.6030184",
     "latitude": "44.6484645",
     "restaurant": "La Piazza Ristorante",
-    "price": "$24",
+    "price": "$24.00",
     "burger": "Italian Stallion 2.0"
   },
   {
@@ -626,7 +626,7 @@
     "longitude": "-63.5662829",
     "latitude": "44.6659186",
     "restaurant": "Larry’s Sandwiches & Sides",
-    "price": "$17",
+    "price": "$17.00",
     "burger": "Larry's Smash Burger Panini"
   },
   {
@@ -636,7 +636,7 @@
     "longitude": "-63.5741032",
     "latitude": "44.6446517",
     "restaurant": "Latitude  44",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "THE SMOKE SHOW"
   },
   {
@@ -646,7 +646,7 @@
     "longitude": "-63.5782145",
     "latitude": "44.6405701",
     "restaurant": "Le Bistro By Liz",
-    "price": "$11",
+    "price": "$11.00",
     "burger": "Famous Crispy Haddock Burger"
   },
   {
@@ -676,7 +676,7 @@
     "longitude": "-63.60168",
     "latitude": "44.65958",
     "restaurant": "Lion’s Head Tavern",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "The Tavern Titan"
   },
   {
@@ -686,7 +686,7 @@
     "longitude": "-63.5745363",
     "latitude": "44.6468944",
     "restaurant": "Lot Six",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "The Dirty Burger"
   },
   {
@@ -696,7 +696,7 @@
     "longitude": "-63.57861979",
     "latitude": "44.64257228",
     "restaurant": "Manilla Thai Grill",
-    "price": "$18",
+    "price": "$18.00",
     "burger": "MThaÃ¯ Burger"
   },
   {
@@ -706,7 +706,7 @@
     "longitude": "-63.7077942",
     "latitude": "44.5950286",
     "restaurant": "Martin’s Kitchen",
-    "price": "$24",
+    "price": "$24.00",
     "burger": "The Smokehouse Deluxe"
   },
   {
@@ -716,7 +716,7 @@
     "longitude": "-63.5681239",
     "latitude": "44.6429859",
     "restaurant": "Matadora",
-    "price": "$28",
+    "price": "$28.00",
     "burger": "Toro Bravo"
   },
   {
@@ -726,7 +726,7 @@
     "longitude": "-63.577124",
     "latitude": "44.6457268",
     "restaurant": "Maxwells",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "K-Town Smash Burger 20"
   },
   {
@@ -756,7 +756,7 @@
     "longitude": "-63.6763485",
     "latitude": "44.7160344",
     "restaurant": "Mill Cove Brew Pub",
-    "price": "$13",
+    "price": "$13.00",
     "burger": "TROPIC THUNDER BURGER"
   },
   {
@@ -766,7 +766,7 @@
     "longitude": "-63.672917",
     "latitude": "44.6475996",
     "restaurant": "Moxies Bayers Lake",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Short Rib Truffle Burger"
   },
   {
@@ -776,7 +776,7 @@
     "longitude": "-63.5655604",
     "latitude": "44.700859",
     "restaurant": "Moxies Dartmouth",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Short Rib Truffle Burger"
   },
   {
@@ -786,7 +786,7 @@
     "longitude": "-63.5744791",
     "latitude": "44.6462067",
     "restaurant": "Moxies Downtown",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Short Rib Truffle Burger"
   },
   {
@@ -796,7 +796,7 @@
     "longitude": "-63.6472817",
     "latitude": "44.67538825",
     "restaurant": "Nha CafÃ©",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "Sous Vide Double Bacon Bosun Cheese Burger"
   },
   {
@@ -806,7 +806,7 @@
     "longitude": "-63.5754154",
     "latitude": "44.6466167",
     "restaurant": "Niche Lounge",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "The 902 Donair Smash"
   },
   {
@@ -816,7 +816,7 @@
     "longitude": "-63.72340796",
     "latitude": "44.64297634",
     "restaurant": "Nineteen Restaurant",
-    "price": "$21",
+    "price": "$21.00",
     "burger": "Back Nine Blackberry Burger"
   },
   {
@@ -846,7 +846,7 @@
     "longitude": "-63.6125609",
     "latitude": "44.7042495",
     "restaurant": "Old Port Pub",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "Ringer Burger"
   },
   {
@@ -876,7 +876,7 @@
     "longitude": "-63.5713211",
     "latitude": "44.648325",
     "restaurant": "Peacock Wine Bar",
-    "price": "$26",
+    "price": "$26.00",
     "burger": "Peacock Smoked Cheddar Burger"
   },
   {
@@ -886,7 +886,7 @@
     "longitude": "-63.6818712",
     "latitude": "44.7148313",
     "restaurant": "Peppercorns Eatery Bedford",
-    "price": "$23",
+    "price": "$23.00",
     "burger": "The Southern Stack"
   },
   {
@@ -896,7 +896,7 @@
     "longitude": "-63.6551465",
     "latitude": "44.7320648",
     "restaurant": "Pete’s Frootique and Fine Foods Bedford",
-    "price": "$10",
+    "price": "$10.00",
     "burger": "The Panzerotti Pizza Burger"
   },
   {
@@ -906,7 +906,7 @@
     "longitude": "-63.5779737",
     "latitude": "44.6434014",
     "restaurant": "Pete’s Frootique and Fine Foods Downtown",
-    "price": "$10",
+    "price": "$10.00",
     "burger": "The Mighty Nacho Burger"
   },
   {
@@ -916,7 +916,7 @@
     "longitude": "-63.5469133",
     "latitude": "44.6489196",
     "restaurant": "Pilotâs Pub",
-    "price": "$18",
+    "price": "$18.00",
     "burger": "JalapeÃ±o Popper Smash Burger"
   },
   {
@@ -926,7 +926,7 @@
     "longitude": "-63.5789718",
     "latitude": "44.6942356",
     "restaurant": "Pitch & Pivot",
-    "price": "$12",
+    "price": "$12.00",
     "burger": "Korean BBQ Burger"
   },
   {
@@ -936,7 +936,7 @@
     "longitude": "-63.5931346",
     "latitude": "44.6508465",
     "restaurant": "Punta Cana Taste",
-    "price": "$23",
+    "price": "$23.00",
     "burger": "The Paisa"
   },
   {
@@ -946,7 +946,7 @@
     "longitude": "-63.5862095",
     "latitude": "44.6538578",
     "restaurant": "Real Fake Meats",
-    "price": "$17",
+    "price": "$17.00",
     "burger": "Love is Brined"
   },
   {
@@ -976,7 +976,7 @@
     "longitude": "-63.56919854",
     "latitude": "44.64389147",
     "restaurant": "Ristorante aMano",
-    "price": "$26",
+    "price": "$26.00",
     "burger": "Sgabello di Lusso"
   },
   {
@@ -986,7 +986,7 @@
     "longitude": "-63.6779678",
     "latitude": "44.7019109",
     "restaurant": "Rivaaj Restobar",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "G.O.A.T"
   },
   {
@@ -1006,7 +1006,7 @@
     "longitude": "-63.5731829",
     "latitude": "44.6472602",
     "restaurant": "Rudy’s",
-    "price": "$12",
+    "price": "$12.00",
     "burger": "Rudy's Breakfast Burger"
   },
   {
@@ -1016,7 +1016,7 @@
     "longitude": "-63.6135623",
     "latitude": "44.6356944",
     "restaurant": "Rudy’s On The Arm",
-    "price": "$16",
+    "price": "$16.00",
     "burger": "Steak Melt Burger"
   },
   {
@@ -1026,7 +1026,7 @@
     "longitude": "-63.5624555",
     "latitude": "44.7053466",
     "restaurant": "Sabrosa Restaurant & Tequila Bar",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Queso Cheesy Burger"
   },
   {
@@ -1036,7 +1036,7 @@
     "longitude": "-63.5716871",
     "latitude": "44.6490633",
     "restaurant": "Salt + Ash",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Lucky Chimkin Burger"
   },
   {
@@ -1056,7 +1056,7 @@
     "longitude": "-63.5636625",
     "latitude": "44.7043346",
     "restaurant": "Seamus David’s Pub",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "Holy Smashinâ Hickory"
   },
   {
@@ -1066,7 +1066,7 @@
     "longitude": "-63.5682091",
     "latitude": "44.6401775",
     "restaurant": "Seaport Social at The Westin Nova Scotian",
-    "price": "$26",
+    "price": "$26.00",
     "burger": "The Atlantic Smash Burger"
   },
   {
@@ -1086,7 +1086,7 @@
     "longitude": "-63.5767637",
     "latitude": "44.6456368",
     "restaurant": "Sketti & Ball Co",
-    "price": "$21",
+    "price": "$21.00",
     "burger": "The Big Burrata"
   },
   {
@@ -1096,7 +1096,7 @@
     "longitude": "-63.6878532",
     "latitude": "44.7019471",
     "restaurant": "SouâWester In The City, Larry Uteck",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Lighthouse Lobster Donair Burger"
   },
   {
@@ -1106,7 +1106,7 @@
     "longitude": "-63.9170553",
     "latitude": "44.4921303",
     "restaurant": "SouâWester, Peggys Cove",
-    "price": "$25",
+    "price": "$25.00",
     "burger": "Lighthouse Lobster Donair Burger"
   },
   {
@@ -1136,7 +1136,7 @@
     "longitude": "-63.57508968",
     "latitude": "44.65027164",
     "restaurant": "Stardust Bar and Kitchen",
-    "price": "$19",
+    "price": "$19.00",
     "burger": "Heated Slidery"
   },
   {
@@ -1146,7 +1146,7 @@
     "longitude": "-63.671873",
     "latitude": "44.6481742",
     "restaurant": "Steele Wheels Airstream Cafe",
-    "price": "$10",
+    "price": "$10.00",
     "burger": "The JDM Burger"
   },
   {
@@ -1166,7 +1166,7 @@
     "longitude": "-63.5931595",
     "latitude": "44.6508167",
     "restaurant": "Studio East Asian Gastropub",
-    "price": "$9",
+    "price": "$9.00",
     "burger": "BBQ Char Siu BAO Burger"
   },
   {
@@ -1186,7 +1186,7 @@
     "longitude": "-63.6986478",
     "latitude": "44.7801017",
     "restaurant": "Tap & Timber Social",
-    "price": "$16",
+    "price": "$16.00",
     "burger": "Jalapeno Smash Burger"
   },
   {
@@ -1196,7 +1196,7 @@
     "longitude": "-63.5798457",
     "latitude": "44.6496067",
     "restaurant": "TEMPO food + drink",
-    "price": "$21",
+    "price": "$21.00",
     "burger": "Bacon My Way Downtown"
   },
   {
@@ -1206,7 +1206,7 @@
     "longitude": "-63.5675655",
     "latitude": "44.6643928",
     "restaurant": "The Beaverâs Den Dartmouth",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "Meat Sweats"
   },
   {
@@ -1216,7 +1216,7 @@
     "longitude": "-63.5980613",
     "latitude": "44.6453231",
     "restaurant": "The Beaverâs Den Halifax",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "The Dipper"
   },
   {
@@ -1226,7 +1226,7 @@
     "longitude": "-63.5689192",
     "latitude": "44.6431546",
     "restaurant": "The Bicycle Thief",
-    "price": "$34",
+    "price": "$34.00",
     "burger": "Rossini Royale"
   },
   {
@@ -1236,7 +1236,7 @@
     "longitude": "-63.5927253",
     "latitude": "44.6510170",
     "restaurant": "The Bonfire",
-    "price": "$20",
+    "price": "$20.00",
     "burger": "French Onion Burger"
   },
   {
@@ -1246,7 +1246,7 @@
     "longitude": "-63.5745363",
     "latitude": "44.6468944",
     "restaurant": "The Carleton",
-    "price": "$18",
+    "price": "$18.00",
     "burger": "Pork 'n' Roll"
   },
   {
@@ -1266,7 +1266,7 @@
     "longitude": "-63.58238078",
     "latitude": "44.65165462",
     "restaurant": "The Duke’s Public House",
-    "price": "$15",
+    "price": "$15.00",
     "burger": "THE DRUNKEN IRISH PIG"
   },
   {
@@ -1286,7 +1286,7 @@
     "longitude": "-63.57303487",
     "latitude": "44.65067453",
     "restaurant": "The Lower Deck",
-    "price": "$23",
+    "price": "$23.00",
     "burger": "âTHE TRIPLE DECKERâ"
   },
   {
@@ -1336,7 +1336,7 @@
     "longitude": "-63.5766998",
     "latitude": "44.6454841",
     "restaurant": "The Stubborn Goat Gastropub",
-    "price": "$24",
+    "price": "$24.00",
     "burger": "Mighty Melt"
   },
   {
@@ -1356,7 +1356,7 @@
     "longitude": "-63.57182615",
     "latitude": "44.64873643",
     "restaurant": "ToriDori",
-    "price": "$23",
+    "price": "$23.00",
     "burger": "The Silk Road Burger"
   },
   {
@@ -1366,7 +1366,7 @@
     "longitude": "-63.5697333",
     "latitude": "44.6419861",
     "restaurant": "Trattoria Vesso",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "Arancini Smash Burger"
   },
   {
@@ -1376,7 +1376,7 @@
     "longitude": "-63.5830640",
     "latitude": "44.7004343",
     "restaurant": "Trendz Gastro Pub",
-    "price": "$14",
+    "price": "$14.00",
     "burger": "The French Dip's Hot Sister"
   },
   {
@@ -1386,7 +1386,7 @@
     "longitude": "-63.6569181",
     "latitude": "44.7354407",
     "restaurant": "True North Diner",
-    "price": "$13",
+    "price": "$13.00",
     "burger": "DADDY O COLA SMASH"
   },
   {
@@ -1396,7 +1396,7 @@
     "longitude": "-63.6103623",
     "latitude": "44.8135967",
     "restaurant": "Turtleback Tap & Grill",
-    "price": "$24",
+    "price": "$24.00",
     "burger": "Old MacDonald Burger"
   },
   {
@@ -1406,7 +1406,7 @@
     "longitude": "-63.5856987",
     "latitude": "44.6534679",
     "restaurant": "Tusket Falls Beer Project",
-    "price": "$15",
+    "price": "$15.00",
     "burger": "Check Your Vitals Burger"
   },
   {
@@ -1416,7 +1416,7 @@
     "longitude": "-63.7853952",
     "latitude": "44.7332102",
     "restaurant": "Vernon’s Thunderbird Diner",
-    "price": "$13",
+    "price": "$13.00",
     "burger": "Smashed Marinara Burger"
   },
   {
@@ -1426,7 +1426,7 @@
     "longitude": "-63.5759207",
     "latitude": "44.6428813",
     "restaurant": "Via Condotti",
-    "price": "$28",
+    "price": "$28.00",
     "burger": "La Ferrari"
   },
   {
@@ -1436,7 +1436,7 @@
     "longitude": "-63.5682135",
     "latitude": "44.6428999",
     "restaurant": "Water Polo",
-    "price": "$34",
+    "price": "$34.00",
     "burger": "Surf Club"
   },
   {
@@ -1446,7 +1446,7 @@
     "longitude": "-63.5819946",
     "latitude": "44.6512005",
     "restaurant": "Wave Foods at The Local",
-    "price": "$14",
+    "price": "$14.00",
     "burger": "The BÃ¡nh mÃ¬ Chop"
   },
   {
@@ -1456,7 +1456,7 @@
     "longitude": "-63.5949528",
     "latitude": "44.6495046",
     "restaurant": "Wild Leek",
-    "price": "$22",
+    "price": "$22.00",
     "burger": "Crunchân Munch"
   },
   {
@@ -1466,7 +1466,7 @@
     "longitude": "-63.5677418",
     "latitude": "44.66721588",
     "restaurant": "Yeah Yeah’s Dartmouth",
-    "price": "$6",
+    "price": "$6.00",
     "burger": "Big Mac Slice"
   },
   {
@@ -1476,7 +1476,7 @@
     "longitude": "-63.60870292",
     "latitude": "44.65392344",
     "restaurant": "Yeah Yeah’s Halifax",
-    "price": "$6",
+    "price": "$6.00",
     "burger": "Big Mac Slice"
   }
 ]
