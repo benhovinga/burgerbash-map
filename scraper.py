@@ -1,12 +1,14 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 
 # ── Configuration ──────────────────────────────────────────────────────────────
-URL = "https://burgerbash.ca/burger-lineup/"  # <-- change this to your target URL
+URL = "https://burgerbash.ca/burger-lineup/"  # <-- change to your target URL
+OUTPUT_FILE = "listings.json"  # <-- output file name
 # ───────────────────────────────────────────────────────────────────────────────
 
 
-def fetch_links(url: str) -> list[dict]:
+def fetch_listings(url: str) -> list[dict]:
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -25,26 +27,36 @@ def fetch_links(url: str) -> list[dict]:
         print("Element with id='listeo-listings-container' was not found on the page.")
         return []
 
-    links = []
+    listings = []
     for tag in container.find_all("a", href=True):
-        links.append(
+        # Collect all data-* attributes, stripping the "data-" prefix
+        data_attrs = {
+            key[5:]: value
+            for key, value in tag.attrs.items()
+            if key.startswith("data-")
+        }
+
+        listings.append(
             {
-                "text": tag.get_text(strip=True) or "(no text)",
                 "href": tag["href"],
+                "text": tag.get_text(strip=True) or None,
+                **data_attrs,
             }
         )
 
-    return links
+    return listings
 
 
 if __name__ == "__main__":
     print(f"Fetching: {URL}\n")
-    results = fetch_links(URL)
+    results = fetch_listings(URL)
 
     if results:
-        print(f"Found {len(results)} link(s):\n")
-        for i, link in enumerate(results, start=1):
-            print(f"  {i:>3}. {link['text']}")
-            print(f"       {link['href']}\n")
+        print(f"Found {len(results)} listing(s).")
+
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(results, f, indent=2, ensure_ascii=False)
+
+        print(f"Saved to {OUTPUT_FILE}")
     else:
-        print("No links found.")
+        print("No listings found.")
