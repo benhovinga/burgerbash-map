@@ -63,9 +63,9 @@
     .then((data) => {
       data.forEach((burger) => {
         // Add burger marker to the map
-        let marker = L.marker([burger["latitude"], burger["longitude"]]).addTo(
-          map,
-        );
+        let marker = L.marker([burger["latitude"], burger["longitude"]], {
+          alt: burger["restaurant "],
+        }).addTo(map);
         // Bind popup message
         marker.bindPopup(popupBuilder(burger));
       });
