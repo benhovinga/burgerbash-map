@@ -7,6 +7,8 @@ URL = "https://burgerbash.ca/burger-lineup/"  # <-- change to your target URL
 OUTPUT_FILE = "listings.json"  # <-- output file name
 # ───────────────────────────────────────────────────────────────────────────────
 
+EXCLUDE_ATTRS = {"listing-type", "classifieds-price", "icon"}
+
 
 def fetch_listings(url: str) -> list[dict]:
     headers = {
@@ -29,11 +31,11 @@ def fetch_listings(url: str) -> list[dict]:
 
     listings = []
     for tag in container.find_all("a", href=True):
-        # Collect all data-* attributes, stripping the "data-" prefix
+        # Collect all data-* attributes, stripping the "data-" prefix and skipping excluded keys
         data_attrs = {
             key[5:]: value
             for key, value in tag.attrs.items()
-            if key.startswith("data-")
+            if key.startswith("data-") and key[5:] not in EXCLUDE_ATTRS
         }
 
         burgername_tag = tag.find(class_="burgername")
