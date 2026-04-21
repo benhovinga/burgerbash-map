@@ -1,7 +1,7 @@
 [
   {
     "href": "https://burgerbash.ca/burgers/2-doors-down-food-wine-dartmouth/",
-    "text": "Triple Pickle Deluxe Smash * $242 Doors Down Food + Wine Dartmouth",
+    "burgername": "Triple Pickle Deluxe Smash * $24",
     "title": "2 Doors Down Food + Wine Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -14,7 +14,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/afrite/",
-    "text": "Chicken n Waffle Burger * $17Afrite",
+    "burgername": "Chicken n Waffle Burger * $17",
     "title": "Afrite",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -27,7 +27,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/agricola-street-brasserie/",
-    "text": "Let the Gouda Times Roll * $19.00Agricola Street Brasserie",
+    "burgername": "Let the Gouda Times Roll * $19.00",
     "title": "Agricola Street Brasserie",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -40,7 +40,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/antojo-tacos-tequila/",
-    "text": "Birria Burger * $23.00Antojo Tacos + Tequila",
+    "burgername": "Birria Burger * $23.00",
     "title": "Antojo Tacos + Tequila",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -53,7 +53,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/armview-restaurant-lounge/",
-    "text": "The Italian Job * $20Armview Restaurant & Lounge",
+    "burgername": "The Italian Job * $20",
     "title": "Armview Restaurant & Lounge",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -66,7 +66,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/bar-moxy/",
-    "text": "The Black-Out Burger * $17.00Bar Moxy",
+    "burgername": "The Black-Out Burger * $17.00",
     "title": "Bar Moxy",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -79,7 +79,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/bar-sofia/",
-    "text": "Halifax Beef Bandito Burger * $22Bar Sofia",
+    "burgername": "Halifax Beef Bandito Burger * $22",
     "title": "Bar Sofia",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -92,7 +92,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/bar-stillwell/",
-    "text": "The Swine and Cheese * $19Bar Stillwell",
+    "burgername": "The Swine and Cheese * $19",
     "title": "Bar Stillwell",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -105,7 +105,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/barrington-steakhouse-oyster-bar/",
-    "text": "Haute Mess * $19.00Barrington Steakhouse & Oyster Bar",
+    "burgername": "Haute Mess * $19.00",
     "title": "Barrington Steakhouse & Oyster Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -118,7 +118,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/baton-rouge-grillhouse-bar/",
-    "text": "Maple Rage * $25Baton Rouge Grillhouse & Bar",
+    "burgername": "Maple Rage * $25",
     "title": "Baton Rouge Grillhouse & Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -131,7 +131,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/battery-park-beer-bar-eatery/",
-    "text": "Crunchy Mushroom Melter * $20.00Battery Park Beer Bar & Eatery",
+    "burgername": "Crunchy Mushroom Melter * $20.00",
     "title": "Battery Park Beer Bar & Eatery",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -144,7 +144,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/bedford-neighbourhood-pub/",
-    "text": "Count Garlica * $16Bedford Neighbourhood Pub",
+    "burgername": "Count Garlica * $16",
     "title": "Bedford Neighbourhood Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -157,7 +157,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/besharam-bar-and-grill/",
-    "text": "Thank Me Later * $20.00Besharam Bar and Grill",
+    "burgername": "Thank Me Later * $20.00",
     "title": "Besharam Bar and Grill",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -170,7 +170,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/big-leagues-bayers-lake/",
-    "text": "The Barnyard Brawl * $12.99Big Leagues Bayers Lake",
+    "burgername": "The Barnyard Brawl * $12.99",
     "title": "Big Leagues Bayers Lake",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -183,7 +183,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/big-leagues-dartmouth/",
-    "text": "The Barnyard Brawl * $12.99Big Leagues Dartmouth",
+    "burgername": "The Barnyard Brawl * $12.99",
     "title": "Big Leagues Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -196,7 +196,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/black-sheep/",
-    "text": "Beef Dip Smash Burger * $26.5Black Sheep",
+    "burgername": "Beef Dip Smash Burger * $26.5",
     "title": "Black Sheep",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -209,7 +209,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/boneheads-bbq/",
-    "text": "The Pitmaster Brisket Burger * $15.99Boneheads BBQ",
+    "burgername": "The Pitmaster Brisket Burger * $15.99",
     "title": "Boneheads BBQ",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -222,7 +222,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/boomburger-cows-bedford/",
-    "text": "The Hangover * $15.99BOOMburger COWS Bedford",
+    "burgername": "The Hangover * $15.99",
     "title": "BOOMburger COWS Bedford",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -235,7 +235,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/boondocks-restaurant/",
-    "text": "La Poutine Burger * $18Boondocks Restaurant",
+    "burgername": "La Poutine Burger * $18",
     "title": "Boondocks Restaurant",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -248,7 +248,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/brightwood-golf-and-country-club/",
-    "text": "Char Siu Burger * $19Brightwood Golf and Country Club",
+    "burgername": "Char Siu Burger * $19",
     "title": "Brightwood Golf and Country Club",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -261,7 +261,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/bubba-magoos-bistro/",
-    "text": "The Bubba Burger * $26Bubba Magoos BISTRO",
+    "burgername": "The Bubba Burger * $26",
     "title": "Bubba Magoos BISTRO",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -274,7 +274,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/bud-the-spud/",
-    "text": "The Dirty Dipper * $17.99Bud the Spud",
+    "burgername": "The Dirty Dipper * $17.99",
     "title": "Bud the Spud",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -287,7 +287,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/cafe-lunette/",
-    "text": "Le SacrÃ© Bleu Burger * $28CafÃ© Lunette",
+    "burgername": "Le SacrÃ© Bleu Burger * $28",
     "title": "CafÃ© Lunette",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -300,7 +300,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/3sixty/",
-    "text": "The Royal Flush * $15Casino Nova Scotia 3Sixty Restaurant",
+    "burgername": "The Royal Flush * $15",
     "title": "Casino Nova Scotia 3Sixty Restaurant",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -313,7 +313,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/celtic-corner/",
-    "text": "Buffalo & Hickory Angus Burger * $19.99Celtic Corner",
+    "burgername": "Buffalo & Hickory Angus Burger * $19.99",
     "title": "Celtic Corner",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -326,7 +326,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/chain-yard-urban-cidery/",
-    "text": "Thai Break * $25.00Chain Yard Urban Cidery",
+    "burgername": "Thai Break * $25.00",
     "title": "Chain Yard Urban Cidery",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -339,7 +339,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/cheeky-neighbour/",
-    "text": "Green Egg and Ham * $12Cheeky Neighbour",
+    "burgername": "Green Egg and Ham * $12",
     "title": "Cheeky Neighbour",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -352,7 +352,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/cheese-curds-gourmet-burgers-poutinerie-lacewood/",
-    "text": "The Spicy Chicken Mini * $5Cheese Curds Gourmet Burgers + Poutinerie Lacewood",
+    "burgername": "The Spicy Chicken Mini * $5",
     "title": "Cheese Curds Gourmet Burgers + Poutinerie Lacewood",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -365,7 +365,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/cheese-curds-gourmet-burgers-poutinerie-larry-uteck/",
-    "text": "The Spicy Chicken Mini * $5Cheese Curds Gourmet Burgers + Poutinerie Larry Uteck",
+    "burgername": "The Spicy Chicken Mini * $5",
     "title": "Cheese Curds Gourmet Burgers + Poutinerie Larry Uteck",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -378,7 +378,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/cheese-curds-gourmet-burgers-poutinerie-pleasant-st/",
-    "text": "The Spicy Chicken Mini * $5Cheese Curds Gourmet Burgers + Poutinerie Pleasant St",
+    "burgername": "The Spicy Chicken Mini * $5",
     "title": "Cheese Curds Gourmet Burgers + Poutinerie Pleasant St",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -391,7 +391,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/chicking/",
-    "text": "Crunchy Grilled Buldak Sandwich * $18Chicking",
+    "burgername": "Crunchy Grilled Buldak Sandwich * $18",
     "title": "Chicking",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -404,7 +404,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/clayton-park-bar-grill/",
-    "text": "The Pigpen Stack * $22.99Clayton Park Bar & Grill",
+    "burgername": "The Pigpen Stack * $22.99",
     "title": "Clayton Park Bar & Grill",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -417,7 +417,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/coldstream-clear-distillery/",
-    "text": "The Dill-uxe Burger * $22.00Coldstream Clear Distillery",
+    "burgername": "The Dill-uxe Burger * $22.00",
     "title": "Coldstream Clear Distillery",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -430,7 +430,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/creme/",
-    "text": "The Harvest Burger * $17CrÃ¨me",
+    "burgername": "The Harvest Burger * $17",
     "title": "CrÃ¨me",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -443,7 +443,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/darrells-restaurant/",
-    "text": "BLTCM * $9.99Darrell’s Restaurant",
+    "burgername": "BLTCM * $9.99",
     "title": "Darrell’s Restaurant",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -456,7 +456,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/darya/",
-    "text": "Lamb-Borghini Burger * $25DaryÃ¢",
+    "burgername": "Lamb-Borghini Burger * $25",
     "title": "DaryÃ¢",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -469,7 +469,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/deerfield-pub/",
-    "text": "Firecracker * $24Deerfield Pub",
+    "burgername": "Firecracker * $24",
     "title": "Deerfield Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -482,7 +482,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/dessert-yard/",
-    "text": "Double Smash Flat Burger * $18Dessert Yard",
+    "burgername": "Double Smash Flat Burger * $18",
     "title": "Dessert Yard",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -495,7 +495,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/doolittles-sports-bar/",
-    "text": "Candy Shroom Boom * $13Doolittles Sports Bar",
+    "burgername": "Candy Shroom Boom * $13",
     "title": "Doolittles Sports Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -508,7 +508,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/drift/",
-    "text": "The Buzzy Boeuf * $26Drift",
+    "burgername": "The Buzzy Boeuf * $26",
     "title": "Drift",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -521,7 +521,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/durty-nellys/",
-    "text": "Nelly's Jam Session * $21Durty Nelly’s",
+    "burgername": "Nelly's Jam Session * $21",
     "title": "Durty Nelly’s",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -534,7 +534,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/economy-shoe-shop/",
-    "text": "The Big Pickl'd Ricky * $13Economy Shoe Shop",
+    "burgername": "The Big Pickl'd Ricky * $13",
     "title": "Economy Shoe Shop",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -547,7 +547,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/eliot-vine/",
-    "text": "A Strog of Genius * $20Eliot & Vine",
+    "burgername": "A Strog of Genius * $20",
     "title": "Eliot & Vine",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -560,7 +560,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/evans-seafood/",
-    "text": "Haddy Patty Tout Garni * $13.00Evanâs Seafood",
+    "burgername": "Haddy Patty Tout Garni * $13.00",
     "title": "Evanâs Seafood",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -573,7 +573,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/freemans-little-new-york-downtown/",
-    "text": "Smash & Burn * $19.99Freemanâs Little New York Downtown",
+    "burgername": "Smash & Burn * $19.99",
     "title": "Freemanâs Little New York Downtown",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -586,7 +586,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/freemans-little-new-york-fairview/",
-    "text": "Smash & Burn * $19.99Freemanâs Little New York Fairview",
+    "burgername": "Smash & Burn * $19.99",
     "title": "Freemanâs Little New York Fairview",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -599,7 +599,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/freemans-little-new-york-quinpool/",
-    "text": "Smash & Burn * $19.99Freemanâs Little New York Quinpool",
+    "burgername": "Smash & Burn * $19.99",
     "title": "Freemanâs Little New York Quinpool",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -612,7 +612,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/freemans-little-new-york-sackville/",
-    "text": "Smash & Burn * $19.99Freemanâs Little New York Sackville",
+    "burgername": "Smash & Burn * $19.99",
     "title": "Freemanâs Little New York Sackville",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -625,7 +625,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/fry-daddys/",
-    "text": "The Double Sweet and spicy Smash Burger * $19.00Fry Daddy’s",
+    "burgername": "The Double Sweet and spicy Smash Burger * $19.00",
     "title": "Fry Daddy’s",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -638,7 +638,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/gahan-house-nova-centre/",
-    "text": "The Nova Smash * $19Gahan House Nova Centre",
+    "burgername": "The Nova Smash * $19",
     "title": "Gahan House Nova Centre",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -651,7 +651,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/gio/",
-    "text": "The We're All In Burger * $20Gio",
+    "burgername": "The We're All In Burger * $20",
     "title": "Gio",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -664,7 +664,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/harbour-city/",
-    "text": "Halifax Reuben Burger * $25Harbour City",
+    "burgername": "Halifax Reuben Burger * $25",
     "title": "Harbour City",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -677,7 +677,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/harbourstone/",
-    "text": "Beet It! Fried Chicken Burger * $21.00Harbourstone",
+    "burgername": "Beet It! Fried Chicken Burger * $21.00",
     "title": "Harbourstone",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -690,7 +690,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/il-mercato/",
-    "text": "il Diavolo * $28.00il Mercato",
+    "burgername": "il Diavolo * $28.00",
     "title": "il Mercato",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -703,7 +703,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/jims-family-restaurant/",
-    "text": "Jimmy the Greek * $19.99Jim’s Family Restaurant",
+    "burgername": "Jimmy the Greek * $19.99",
     "title": "Jim’s Family Restaurant",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -716,7 +716,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/jungle-jims-eatery/",
-    "text": "1/4lb Smashed Burger * $10Jungle Jim’s Eatery",
+    "burgername": "1/4lb Smashed Burger * $10",
     "title": "Jungle Jim’s Eatery",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -729,7 +729,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/kai-bradys-fancy-divebar/",
-    "text": "PHILLY CHEESESTEAK BURGER * $22Kai Brady’s | Fancy DiveBar",
+    "burgername": "PHILLY CHEESESTEAK BURGER * $22",
     "title": "Kai Brady’s | Fancy DiveBar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -742,7 +742,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/kempsters-cookhouse/",
-    "text": "ORCHARD SMOKE STACK * $16.00Kempster’s Cookhouse",
+    "burgername": "ORCHARD SMOKE STACK * $16.00",
     "title": "Kempster’s Cookhouse",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -755,7 +755,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/king-of-donair/",
-    "text": "The Garlieburger * $8.00King of Donair",
+    "burgername": "The Garlieburger * $8.00",
     "title": "King of Donair",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -768,7 +768,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/krave-burger-dartmouth/",
-    "text": "The OG Bacon Jam Cheeseburger & Fries * $12.00Krave Burger Dartmouth",
+    "burgername": "The OG Bacon Jam Cheeseburger & Fries * $12.00",
     "title": "Krave Burger Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -781,7 +781,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/krave-burger-halifax/",
-    "text": "The OG Bacon Jam Cheeseburger & Fries * $12.00Krave Burger Halifax",
+    "burgername": "The OG Bacon Jam Cheeseburger & Fries * $12.00",
     "title": "Krave Burger Halifax",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -794,7 +794,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/la-piazza-ristorante/",
-    "text": "Italian Stallion 2.0 * $24La Piazza Ristorante",
+    "burgername": "Italian Stallion 2.0 * $24",
     "title": "La Piazza Ristorante",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -807,7 +807,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/larrys-sandwiches-sides/",
-    "text": "Larry's Smash Burger Panini * $17Larry’s Sandwiches & Sides",
+    "burgername": "Larry's Smash Burger Panini * $17",
     "title": "Larry’s Sandwiches & Sides",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -820,7 +820,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/latitude-44/",
-    "text": "THE SMOKE SHOW * $20Latitude  44",
+    "burgername": "THE SMOKE SHOW * $20",
     "title": "Latitude  44",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -833,7 +833,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/le-bistro-by-liz/",
-    "text": "Famous Crispy Haddock Burger * $11Le Bistro By Liz",
+    "burgername": "Famous Crispy Haddock Burger * $11",
     "title": "Le Bistro By Liz",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -846,7 +846,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/le-rouge-bold-grill-cocktails/",
-    "text": "The Butchers Board Burger * $20.00Le Rouge Bold Grill & Cocktails",
+    "burgername": "The Butchers Board Burger * $20.00",
     "title": "Le Rouge Bold Grill & Cocktails",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -859,7 +859,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/leftys-restaurant-lounge/",
-    "text": "The Bellissimo * $24.99Lefty’s Restaurant & Lounge",
+    "burgername": "The Bellissimo * $24.99",
     "title": "Lefty’s Restaurant & Lounge",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -872,7 +872,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/lions-head-tavern/",
-    "text": "The Tavern Titan * $22Lion’s Head Tavern",
+    "burgername": "The Tavern Titan * $22",
     "title": "Lion’s Head Tavern",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -885,7 +885,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/lot-six/",
-    "text": "The Dirty Burger * $22Lot Six",
+    "burgername": "The Dirty Burger * $22",
     "title": "Lot Six",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -898,7 +898,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/manilla-thai-grill/",
-    "text": "MThaÃ¯ Burger * $18Manilla Thai Grill",
+    "burgername": "MThaÃ¯ Burger * $18",
     "title": "Manilla Thai Grill",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -911,7 +911,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/martins-kitchen/",
-    "text": "The Smokehouse Deluxe * $24Martin’s Kitchen",
+    "burgername": "The Smokehouse Deluxe * $24",
     "title": "Martin’s Kitchen",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -924,7 +924,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/matadora/",
-    "text": "Toro Bravo * $28Matadora",
+    "burgername": "Toro Bravo * $28",
     "title": "Matadora",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -937,7 +937,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/maxwells/",
-    "text": "K-Town Smash Burger 20 * $20Maxwells",
+    "burgername": "K-Town Smash Burger 20 * $20",
     "title": "Maxwells",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -950,7 +950,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/mckelvies/",
-    "text": "Crab and Lobster Burger * $29.00McKelvie’s",
+    "burgername": "Crab and Lobster Burger * $29.00",
     "title": "McKelvie’s",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -963,7 +963,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/milestones-grill-bar/",
-    "text": "FlambÃ© Burger * $25.00Milestones Grill + Bar",
+    "burgername": "FlambÃ© Burger * $25.00",
     "title": "Milestones Grill + Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -976,7 +976,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/mill-cove-brew-pub/",
-    "text": "TROPIC THUNDER BURGER * $13Mill Cove Brew Pub",
+    "burgername": "TROPIC THUNDER BURGER * $13",
     "title": "Mill Cove Brew Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -989,7 +989,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/moxies-bayers-lake/",
-    "text": "Short Rib Truffle Burger * $25Moxies Bayers Lake",
+    "burgername": "Short Rib Truffle Burger * $25",
     "title": "Moxies Bayers Lake",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1002,7 +1002,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/moxies-dartmouth/",
-    "text": "Short Rib Truffle Burger * $25Moxies Dartmouth",
+    "burgername": "Short Rib Truffle Burger * $25",
     "title": "Moxies Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1015,7 +1015,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/moxies-downtown/",
-    "text": "Short Rib Truffle Burger * $25Moxies Downtown",
+    "burgername": "Short Rib Truffle Burger * $25",
     "title": "Moxies Downtown",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1028,7 +1028,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/nha-cafe/",
-    "text": "Sous Vide Double Bacon Bosun Cheese Burger * $22Nha CafÃ©",
+    "burgername": "Sous Vide Double Bacon Bosun Cheese Burger * $22",
     "title": "Nha CafÃ©",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1041,7 +1041,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/niche-lounge/",
-    "text": "The 902 Donair Smash * $22Niche Lounge",
+    "burgername": "The 902 Donair Smash * $22",
     "title": "Niche Lounge",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1054,7 +1054,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/nineteen-restaurant/",
-    "text": "Back Nine Blackberry Burger * $21Nineteen Restaurant",
+    "burgername": "Back Nine Blackberry Burger * $21",
     "title": "Nineteen Restaurant",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1067,7 +1067,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/north-brewing-dartmouth/",
-    "text": "Pineapple Smash * $18.00North Brewing Dartmouth",
+    "burgername": "Pineapple Smash * $18.00",
     "title": "North Brewing Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1080,7 +1080,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/north-brewing-timberlea/",
-    "text": "Pineapple Smash * $18.00North Brewing Timberlea",
+    "burgername": "Pineapple Smash * $18.00",
     "title": "North Brewing Timberlea",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1093,7 +1093,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/old-port-pub/",
-    "text": "Ringer Burger * $20Old Port Pub",
+    "burgername": "Ringer Burger * $20",
     "title": "Old Port Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1106,7 +1106,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/west-ender-coffee/",
-    "text": "The Big Press * $15.50Oxford Taproom West Ender Coffee",
+    "burgername": "The Big Press * $15.50",
     "title": "Oxford Taproom West Ender Coffee",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1119,7 +1119,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/parkside-pub-smokehouse/",
-    "text": "Pitt Boss * $14.00Parkside Pub & Smokehouse",
+    "burgername": "Pitt Boss * $14.00",
     "title": "Parkside Pub & Smokehouse",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1132,7 +1132,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/peacock-wine-bar/",
-    "text": "Peacock Smoked Cheddar Burger * $26Peacock Wine Bar",
+    "burgername": "Peacock Smoked Cheddar Burger * $26",
     "title": "Peacock Wine Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1145,7 +1145,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/peppercorns-eatery-bedford/",
-    "text": "The Southern Stack * $23Peppercorns Eatery Bedford",
+    "burgername": "The Southern Stack * $23",
     "title": "Peppercorns Eatery Bedford",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1158,7 +1158,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/petes-frootique-and-fine-foods-bedford/",
-    "text": "The Panzerotti Pizza Burger * $10Pete’s Frootique and Fine Foods Bedford",
+    "burgername": "The Panzerotti Pizza Burger * $10",
     "title": "Pete’s Frootique and Fine Foods Bedford",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1171,7 +1171,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/petes-frootique-and-fine-foods-downtown/",
-    "text": "The Mighty Nacho Burger * $10Pete’s Frootique and Fine Foods Downtown",
+    "burgername": "The Mighty Nacho Burger * $10",
     "title": "Pete’s Frootique and Fine Foods Downtown",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1184,7 +1184,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/pilots-pub/",
-    "text": "JalapeÃ±o Popper Smash Burger * $18Pilotâs Pub",
+    "burgername": "JalapeÃ±o Popper Smash Burger * $18",
     "title": "Pilotâs Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1197,7 +1197,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/pitch-pivot/",
-    "text": "Korean BBQ Burger * $12Pitch & Pivot",
+    "burgername": "Korean BBQ Burger * $12",
     "title": "Pitch & Pivot",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1210,7 +1210,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/punta-cana-taste/",
-    "text": "The Paisa * $23Punta Cana Taste",
+    "burgername": "The Paisa * $23",
     "title": "Punta Cana Taste",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1223,7 +1223,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/real-fake-meats/",
-    "text": "Love is Brined * $17Real Fake Meats",
+    "burgername": "Love is Brined * $17",
     "title": "Real Fake Meats",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1236,7 +1236,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/rinaldos-fairview/",
-    "text": "The Vodka Roni * $17.00Rinaldoâs Fairview",
+    "burgername": "The Vodka Roni * $17.00",
     "title": "Rinaldoâs Fairview",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1249,7 +1249,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/rinaldos-windsor-st/",
-    "text": "The Vodka Roni * $17.00Rinaldoâs Windsor St",
+    "burgername": "The Vodka Roni * $17.00",
     "title": "Rinaldoâs Windsor St",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1262,7 +1262,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/ristorante-amano/",
-    "text": "Sgabello di Lusso * $26Ristorante aMano",
+    "burgername": "Sgabello di Lusso * $26",
     "title": "Ristorante aMano",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1275,7 +1275,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/rivaaj-restobar/",
-    "text": "G.O.A.T * $25Rivaaj Restobar",
+    "burgername": "G.O.A.T * $25",
     "title": "Rivaaj Restobar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1288,7 +1288,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/roys-restaurant/",
-    "text": "Roy's Baba Bacon Cheeseburger * $17.00Royâs Restaurant",
+    "burgername": "Roy's Baba Bacon Cheeseburger * $17.00",
     "title": "Royâs Restaurant",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1301,7 +1301,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/rudys/",
-    "text": "Rudy's Breakfast Burger * $12Rudy’s",
+    "burgername": "Rudy's Breakfast Burger * $12",
     "title": "Rudy’s",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1314,7 +1314,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/rudys-on-the-arm/",
-    "text": "Steak Melt Burger * $16Rudy’s On The Arm",
+    "burgername": "Steak Melt Burger * $16",
     "title": "Rudy’s On The Arm",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1327,7 +1327,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/sabrosa-restaurant-tequila-bar/",
-    "text": "Queso Cheesy Burger * $25Sabrosa Restaurant & Tequila Bar",
+    "burgername": "Queso Cheesy Burger * $25",
     "title": "Sabrosa Restaurant & Tequila Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1340,7 +1340,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/salt-ash/",
-    "text": "Lucky Chimkin Burger * $25Salt + Ash",
+    "burgername": "Lucky Chimkin Burger * $25",
     "title": "Salt + Ash",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1353,7 +1353,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/sea-smoke-restuarant-and-bar/",
-    "text": "The Seoul Food Sandwich * $28.00Sea Smoke Restaurant and Bar",
+    "burgername": "The Seoul Food Sandwich * $28.00",
     "title": "Sea Smoke Restaurant and Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1366,7 +1366,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/seamus-davids-pub/",
-    "text": "Holy Smashinâ Hickory * $20Seamus David’s Pub",
+    "burgername": "Holy Smashinâ Hickory * $20",
     "title": "Seamus David’s Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1379,7 +1379,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/seaport-social-at-the-westin-nova-scotian/",
-    "text": "The Atlantic Smash Burger * $26Seaport Social at The Westin Nova Scotian",
+    "burgername": "The Atlantic Smash Burger * $26",
     "title": "Seaport Social at The Westin Nova Scotian",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1392,7 +1392,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/side-hustle-snack-bar/",
-    "text": "Le BifthÃ¨que * $12.00Side Hustle Snack Bar",
+    "burgername": "Le BifthÃ¨que * $12.00",
     "title": "Side Hustle Snack Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1405,7 +1405,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/sketti-ball-co/",
-    "text": "The Big Burrata * $21Sketti & Ball Co",
+    "burgername": "The Big Burrata * $21",
     "title": "Sketti & Ball Co",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1418,7 +1418,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/souwester-in-the-city-larry-uteck/",
-    "text": "Lighthouse Lobster Donair Burger * $25SouâWester In The City, Larry Uteck",
+    "burgername": "Lighthouse Lobster Donair Burger * $25",
     "title": "SouâWester In The City, Larry Uteck",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1431,7 +1431,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/sou-wester-restaurant-peggys-cove/",
-    "text": "Lighthouse Lobster Donair Burger * $25SouâWester, Peggys Cove",
+    "burgername": "Lighthouse Lobster Donair Burger * $25",
     "title": "SouâWester, Peggys Cove",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1444,7 +1444,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/st-louis-bar-and-grill-dartmouth/",
-    "text": "Nacho Average Burger * $19.99St. Louis Bar and Grill Dartmouth",
+    "burgername": "Nacho Average Burger * $19.99",
     "title": "St. Louis Bar and Grill Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1457,7 +1457,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/st-louis-bar-and-grill-sackville/",
-    "text": "Nacho Average Burger * $19.99St. Louis Bar and Grill Sackville",
+    "burgername": "Nacho Average Burger * $19.99",
     "title": "St. Louis Bar and Grill Sackville",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1470,7 +1470,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/stardust-bar-and-kitchen/",
-    "text": "Heated Slidery * $19Stardust Bar and Kitchen",
+    "burgername": "Heated Slidery * $19",
     "title": "Stardust Bar and Kitchen",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1483,7 +1483,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/steele-wheels-airstream-cafe/",
-    "text": "The JDM Burger * $10Steele Wheels Airstream Cafe",
+    "burgername": "The JDM Burger * $10",
     "title": "Steele Wheels Airstream Cafe",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1496,7 +1496,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/stillwell/",
-    "text": "Sweet Potato Katsu Burger * $16.00Stillwell Freehouse",
+    "burgername": "Sweet Potato Katsu Burger * $16.00",
     "title": "Stillwell Freehouse",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1509,7 +1509,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/studio-east-asian-gastropub/",
-    "text": "BBQ Char Siu BAO Burger * $9Studio East Asian Gastropub",
+    "burgername": "BBQ Char Siu BAO Burger * $9",
     "title": "Studio East Asian Gastropub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1522,7 +1522,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/caribbean-bliss-breakfast-cafe/",
-    "text": "Jerk Chicken Burger * $25.00Sweet & Sassy",
+    "burgername": "Jerk Chicken Burger * $25.00",
     "title": "Sweet & Sassy",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1535,7 +1535,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/tap-timber-social/",
-    "text": "Jalapeno Smash Burger * $16Tap & Timber Social",
+    "burgername": "Jalapeno Smash Burger * $16",
     "title": "Tap & Timber Social",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1548,7 +1548,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/tempo-food-drink/",
-    "text": "Bacon My Way Downtown * $21TEMPO food + drink",
+    "burgername": "Bacon My Way Downtown * $21",
     "title": "TEMPO food + drink",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1561,7 +1561,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-beavers-den-dartmouth/",
-    "text": "Meat Sweats * $20The Beaverâs Den Dartmouth",
+    "burgername": "Meat Sweats * $20",
     "title": "The Beaverâs Den Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1574,7 +1574,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-beavers-den-halifax/",
-    "text": "The Dipper * $20The Beaverâs Den Halifax",
+    "burgername": "The Dipper * $20",
     "title": "The Beaverâs Den Halifax",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1587,7 +1587,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-bicycle-thief/",
-    "text": "Rossini Royale * $34The Bicycle Thief",
+    "burgername": "Rossini Royale * $34",
     "title": "The Bicycle Thief",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1600,7 +1600,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-bonfire/",
-    "text": "French Onion Burger * $20The Bonfire",
+    "burgername": "French Onion Burger * $20",
     "title": "The Bonfire",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1613,7 +1613,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-carleton/",
-    "text": "Pork 'n' Roll * $18The Carleton",
+    "burgername": "Pork 'n' Roll * $18",
     "title": "The Carleton",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1626,7 +1626,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-commons-on-portland/",
-    "text": "The Big Dipper * $18.95The Commons on Portland",
+    "burgername": "The Big Dipper * $18.95",
     "title": "The Commons on Portland",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1639,7 +1639,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-dukes-public-house/",
-    "text": "THE DRUNKEN IRISH PIG * $15The Duke’s Public House",
+    "burgername": "THE DRUNKEN IRISH PIG * $15",
     "title": "The Duke’s Public House",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1652,7 +1652,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-loose-cannon/",
-    "text": "Whiskey Lullaby * $18.99The Loose Cannon",
+    "burgername": "Whiskey Lullaby * $18.99",
     "title": "The Loose Cannon",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1665,7 +1665,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-lower-deck/",
-    "text": "âTHE TRIPLE DECKERâ * $23The Lower Deck",
+    "burgername": "âTHE TRIPLE DECKERâ * $23",
     "title": "The Lower Deck",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1678,7 +1678,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-millstone-public-house-bedford/",
-    "text": "The Whiskey BBQ chip stack * $15.95The Millstone Public House Bedford",
+    "burgername": "The Whiskey BBQ chip stack * $15.95",
     "title": "The Millstone Public House Bedford",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1691,7 +1691,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-millstone-public-house-dartmouth/",
-    "text": "The Whiskey BBQ chip stack * $15.95The Millstone Public House Dartmouth",
+    "burgername": "The Whiskey BBQ chip stack * $15.95",
     "title": "The Millstone Public House Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1704,7 +1704,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-millstone-public-house-kings-wharf/",
-    "text": "The Whiskey BBQ chip stack * $15.95The Millstone Public House Kings Wharf",
+    "burgername": "The Whiskey BBQ chip stack * $15.95",
     "title": "The Millstone Public House Kings Wharf",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1717,7 +1717,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-press-gang-restaurant-oyster-bar/",
-    "text": "The Pressed Admiral * $25.00The Press Gang Restaurant & Oyster Bar",
+    "burgername": "The Pressed Admiral * $25.00",
     "title": "The Press Gang Restaurant & Oyster Bar",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1730,7 +1730,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/the-stubborn-goat-gastropub/",
-    "text": "Mighty Melt * $24The Stubborn Goat Gastropub",
+    "burgername": "Mighty Melt * $24",
     "title": "The Stubborn Goat Gastropub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1743,7 +1743,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/tilted-tap-bar-grill/",
-    "text": "Maplenator * $19.99Tilted Tap Bar & Grill",
+    "burgername": "Maplenator * $19.99",
     "title": "Tilted Tap Bar & Grill",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1756,7 +1756,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/toridori/",
-    "text": "The Silk Road Burger * $23ToriDori",
+    "burgername": "The Silk Road Burger * $23",
     "title": "ToriDori",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1769,7 +1769,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/trattoria-vesso/",
-    "text": "Arancini Smash Burger * $22Trattoria Vesso",
+    "burgername": "Arancini Smash Burger * $22",
     "title": "Trattoria Vesso",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1782,7 +1782,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/trendz-gastro-pub/",
-    "text": "The French Dip's Hot Sister * $14Trendz Gastro Pub",
+    "burgername": "The French Dip's Hot Sister * $14",
     "title": "Trendz Gastro Pub",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1795,7 +1795,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/true-north-diner/",
-    "text": "DADDY O COLA SMASH * $13True North Diner",
+    "burgername": "DADDY O COLA SMASH * $13",
     "title": "True North Diner",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1808,7 +1808,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/turtleback-tap-grill/",
-    "text": "Old MacDonald Burger * $24Turtleback Tap & Grill",
+    "burgername": "Old MacDonald Burger * $24",
     "title": "Turtleback Tap & Grill",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1821,7 +1821,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/tusket-falls-beer-project/",
-    "text": "Check Your Vitals Burger * $15Tusket Falls Beer Project",
+    "burgername": "Check Your Vitals Burger * $15",
     "title": "Tusket Falls Beer Project",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1834,7 +1834,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/vernons-thunderbird-diner/",
-    "text": "Smashed Marinara Burger * $13Vernon’s Thunderbird Diner",
+    "burgername": "Smashed Marinara Burger * $13",
     "title": "Vernon’s Thunderbird Diner",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1847,7 +1847,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/via-condotti/",
-    "text": "La Ferrari * $28Via Condotti",
+    "burgername": "La Ferrari * $28",
     "title": "Via Condotti",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1860,7 +1860,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/water-polo-2/",
-    "text": "Surf Club * $34Water Polo",
+    "burgername": "Surf Club * $34",
     "title": "Water Polo",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1873,7 +1873,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/wave-foods-at-the-local/",
-    "text": "The BÃ¡nh mÃ¬ Chop * $14Wave Foods at The Local",
+    "burgername": "The BÃ¡nh mÃ¬ Chop * $14",
     "title": "Wave Foods at The Local",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1886,7 +1886,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/wild-leek/",
-    "text": "Crunchân Munch * $22Wild Leek",
+    "burgername": "Crunchân Munch * $22",
     "title": "Wild Leek",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1899,7 +1899,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/yeah-yeahs-dartmouth/",
-    "text": "Big Mac Slice * $6Yeah Yeah’s Dartmouth",
+    "burgername": "Big Mac Slice * $6",
     "title": "Yeah Yeah’s Dartmouth",
     "listing-type": "service",
     "classifieds-price": "$",
@@ -1912,7 +1912,7 @@
   },
   {
     "href": "https://burgerbash.ca/burgers/yeah-yeahs-halifax/",
-    "text": "Big Mac Slice * $6Yeah Yeah’s Halifax",
+    "burgername": "Big Mac Slice * $6",
     "title": "Yeah Yeah’s Halifax",
     "listing-type": "service",
     "classifieds-price": "$",

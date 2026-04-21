@@ -36,10 +36,13 @@ def fetch_listings(url: str) -> list[dict]:
             if key.startswith("data-")
         }
 
+        burgername_tag = tag.find(class_="burgername")
+        burgername = burgername_tag.get_text(strip=True) if burgername_tag else None
+
         listings.append(
             {
                 "href": tag["href"],
-                "text": tag.get_text(strip=True) or None,
+                "burgername": burgername,
                 **data_attrs,
             }
         )
