@@ -32,6 +32,14 @@ for listing in listings:
     else:
         listing["price"] = None
 
+    # 4. Rename "burgername" to "burger"
+    if "burgername" in listing:
+        listing["burger"] = listing.pop("burgername")
+
+    # 5. Remove "friendly-address"
+    if "friendly-address" in listing:
+        listing.pop("friendly-address")
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(listings, f, indent=2, ensure_ascii=False)
 
