@@ -1,4 +1,5 @@
 import json
+import time
 import requests
 from bs4 import BeautifulSoup
 
@@ -8,6 +9,29 @@ OUTPUT_FILE = "listings.json"  # <-- output file name
 # ───────────────────────────────────────────────────────────────────────────────
 
 EXCLUDE_ATTRS = {"listing-type", "classifieds-price", "icon"}
+
+GEOCODE_URL = "https://nominatim.openstreetmap.org/search"
+GEOCODE_HEADERS = {"User-Agent": "burger-scraper/1.0"}
+
+
+def geocode(address: str) -> tuple[str, str] | tuple[None, None]:
+    """Look up lat/long for an address using the free Nominatim API."""
+    if not address or not address.strip():
+        return None, None
+    try:
+        resp = requests.get(
+            GEOCODE_URL,
+            params={"q": address, "format": "json", "limit": 1},
+            headers=GEOCODE_HEADERS,
+            timeout=10,
+        )
+        resp.raise_for_status()
+        results = resp.json()
+        if results:
+            return results[0]["lat"], results[0]["lon"]
+    except Exception as e:
+        print(f"  ⚠️  Geocoding failed for '{address}': {e}")
+    return None, None
 
 
 def fetch_listings(url: str) -> list[dict]:
@@ -41,6 +65,22 @@ def fetch_listings(url: str) -> list[dict]:
         burgername_tag = tag.find(class_="burgername")
         burgername = burgername_tag.get_text(strip=True) if burgername_tag else None
 
+        # Fill in missing lat/long via geocoding
+        lat = data_attrs.get("latitude")
+        lon = data_attrs.get("longitude")
+
+        if not lat or not lon:
+            address = data_attrs.get("friendly-address") or data_attrs.get(
+                "address", ""
+            )
+            title = data_attrs.get("title", "")
+            print(f"  📍 Geocoding '{title}' using: {address!r}")
+            lat, lon = geocode(address)
+            data_attrs["latitude"] = lat
+            data_attrs["longitude"] = lon
+            # Nominatim rate limit: max 1 request/second
+            time.sleep(1)
+
         listings.append(
             {
                 "href": tag["href"],
@@ -57,7 +97,7 @@ if __name__ == "__main__":
     results = fetch_listings(URL)
 
     if results:
-        print(f"Found {len(results)} listing(s).")
+        print(f"\nFound {len(results)} listing(s).")
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2, ensure_ascii=False)

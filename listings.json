@@ -76,8 +76,8 @@
     "friendly-address": "1672 Barrington Street, Halifax, NS, B3J 2A2",
     "address": "1672 Barrington Street, Halifax, NS, B3J 2A2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/BarStillwell-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5739949",
+    "latitude": "44.6469104"
   },
   {
     "href": "https://burgerbash.ca/burgers/barrington-steakhouse-oyster-bar/",
@@ -96,8 +96,8 @@
     "friendly-address": "1877 Hollis Street, Halifax, Nova Scotia, B3J 1W5",
     "address": "1877 Hollis Street, Halifax, Nova Scotia, B3J 1W5",
     "image": "https://burgerbash.ca/wp-content/uploads/2025/03/Burger-Bash-2026-Baton-Rouge-Halifax-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5738573",
+    "latitude": "44.6501335"
   },
   {
     "href": "https://burgerbash.ca/burgers/battery-park-beer-bar-eatery/",
@@ -166,8 +166,8 @@
     "friendly-address": "1014 Barrington Street, Halifax, NS",
     "address": "1014 Barrington Street, Halifax, NS",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Boneheads-BBQ-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5697182",
+    "latitude": "44.6363875"
   },
   {
     "href": "https://burgerbash.ca/burgers/boomburger-cows-bedford/",
@@ -206,8 +206,8 @@
     "friendly-address": "48 Peggy's Point Road, Peggy's Cove, Nova Scotia B3Z 3S2",
     "address": "48 Peggy's Point Road, Peggy's Cove, Nova Scotia B3Z 3S2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/FINAL-burger-pic-Scott-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/bud-the-spud/",
@@ -216,8 +216,8 @@
     "friendly-address": "221 Waverley Road, Dartmouth NS",
     "address": "221 Waverley Road, Dartmouth NS",
     "image": "https://burgerbash.ca/wp-content/uploads/2020/04/Burger-icon-favicon-2020.png",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5483324",
+    "latitude": "44.6954052"
   },
   {
     "href": "https://burgerbash.ca/burgers/cafe-lunette/",
@@ -506,8 +506,8 @@
     "friendly-address": "1725 Market St. Halifax B3J 3N9",
     "address": "1725 Market St. Halifax B3J 3N9",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Gio-Restaurant-1-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5761065",
+    "latitude": "44.6473400"
   },
   {
     "href": "https://burgerbash.ca/burgers/harbour-city/",
@@ -516,8 +516,8 @@
     "friendly-address": "1990 Barrington Street, Halifax, NS, B3J 1P2",
     "address": "1990 Barrington Street, Halifax, NS, B3J 1P2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Harbour-City-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5767840",
+    "latitude": "44.6507011"
   },
   {
     "href": "https://burgerbash.ca/burgers/harbourstone/",
@@ -626,8 +626,8 @@
     "friendly-address": "63 Portland Street, Dartmouth, Nova Scotia, B2Y 1H1",
     "address": "63 Portland Street, Dartmouth, Nova Scotia, B2Y 1H1",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/SJS00190-Jason-McKenzie-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5662829",
+    "latitude": "44.6659186"
   },
   {
     "href": "https://burgerbash.ca/burgers/latitude-44/",
@@ -716,8 +716,8 @@
     "friendly-address": "1341 Lower Water St Unit 125, Halifax, NS B3J 3S8",
     "address": "1341 Lower Water St Unit 125, Halifax, NS B3J 3S8",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Matadora-Toro-Bravo-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/maxwells/",
@@ -796,8 +796,8 @@
     "friendly-address": "205 Beford Highway, Halifax, N.S.",
     "address": "205 Beford Highway, Halifax, N.S.",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/IMG_0872-Harold-Knickle-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/niche-lounge/",
@@ -846,8 +846,8 @@
     "friendly-address": "900 Windmill Road Dartmouth N.S B3B1P7",
     "address": "900 Windmill Road Dartmouth N.S B3B1P7",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Old-Port-Pub-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.6125609",
+    "latitude": "44.7042495"
   },
   {
     "href": "https://burgerbash.ca/burgers/west-ender-coffee/",
@@ -876,8 +876,8 @@
     "friendly-address": "1715 Lower Water St #134, Halifax, NS B3J 0J4",
     "address": "1715 Lower Water St #134, Halifax, NS B3J 0J4",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Screenshot-2026-04-14-at-12.26.17-520x397.png",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/peppercorns-eatery-bedford/",
@@ -926,8 +926,8 @@
     "friendly-address": "240 Brownlow Ave, Dartmouth, NS B3B 1X6",
     "address": "240 Brownlow Ave, Dartmouth, NS B3B 1X6",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Pitch-Pivot-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5789718",
+    "latitude": "44.6942356"
   },
   {
     "href": "https://burgerbash.ca/burgers/punta-cana-taste/",
@@ -936,8 +936,8 @@
     "friendly-address": "6021 Cunard St, Halifax, NS B3K 1E5",
     "address": "6021 Cunard St, Halifax, NS B3K 1E5",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-11-at-18.46.55-Samuel-Villa-Rodriguez-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5931346",
+    "latitude": "44.6508465"
   },
   {
     "href": "https://burgerbash.ca/burgers/real-fake-meats/",
@@ -986,8 +986,8 @@
     "friendly-address": "104-540 Southgate drive, Bedford, NS",
     "address": "104-540 Southgate drive, Bedford, NS",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Rivaaj-burger-pic-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/roys-restaurant/",
@@ -1016,8 +1016,8 @@
     "friendly-address": "75 Burgee Run",
     "address": "75 Burgee Run",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/rudys-steak-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.6135623",
+    "latitude": "44.6356944"
   },
   {
     "href": "https://burgerbash.ca/burgers/sabrosa-restaurant-tequila-bar/",
@@ -1026,8 +1026,8 @@
     "friendly-address": "153 Hector Gate, Dartmouth, Nova Scotia",
     "address": "153 Hector Gate, Dartmouth, Nova Scotia",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/Queso-Cheesy-Burger-copy-Trevor-Rodrigues-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5624555",
+    "latitude": "44.7053466"
   },
   {
     "href": "https://burgerbash.ca/burgers/salt-ash/",
@@ -1096,8 +1096,8 @@
     "friendly-address": "27 Dellridge Lane, Larry Uteck",
     "address": "27 Dellridge Lane, Larry Uteck",
     "image": "https://burgerbash.ca/wp-content/uploads/2025/03/IMG_1640-Marcy-Graves-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/sou-wester-restaurant-peggys-cove/",
@@ -1106,8 +1106,8 @@
     "friendly-address": "178 Peggys Point Road, Peggys Cove",
     "address": "178 Peggys Point Road, Peggys Cove",
     "image": "https://burgerbash.ca/wp-content/uploads/2025/03/IMG_1640-Marcy-Graves-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.9170553",
+    "latitude": "44.4921303"
   },
   {
     "href": "https://burgerbash.ca/burgers/st-louis-bar-and-grill-dartmouth/",
@@ -1156,8 +1156,8 @@
     "friendly-address": "",
     "address": "2534 Agricola Street, Halifax, Nova Scotia, B3K 4C5",
     "image": "https://burgerbash.ca/wp-content/uploads/2025/03/TheStillwellFreehouse-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5926402",
+    "latitude": "44.6545661"
   },
   {
     "href": "https://burgerbash.ca/burgers/studio-east-asian-gastropub/",
@@ -1186,8 +1186,8 @@
     "friendly-address": "963 Sackville Drive, Middle Sackville",
     "address": "963 Sackville Drive, Middle Sackville",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/burger-week-Kari-MacDonald-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.6986478",
+    "latitude": "44.7801017"
   },
   {
     "href": "https://burgerbash.ca/burgers/tempo-food-drink/",
@@ -1206,8 +1206,8 @@
     "friendly-address": "16 Portland Street Dartmouth",
     "address": "16 Portland Street Dartmouth",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/IMG_5327-Imen-Barics-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5675655",
+    "latitude": "44.6643928"
   },
   {
     "href": "https://burgerbash.ca/burgers/the-beavers-den-halifax/",
@@ -1216,8 +1216,8 @@
     "friendly-address": "",
     "address": "",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/a60a4ab0-40d9-461d-be31-2c9bed7e018c-Imen-Barics-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/the-bicycle-thief/",
@@ -1236,8 +1236,8 @@
     "friendly-address": "2394 Robie St, Halifax B3K4M7",
     "address": "2394 Robie St, Halifax B3K4M7",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/French-onion-burger-bonfire-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5927253",
+    "latitude": "44.6510170"
   },
   {
     "href": "https://burgerbash.ca/burgers/the-carleton/",
@@ -1256,8 +1256,8 @@
     "friendly-address": "635 Portland Hills Dr, Dartmouth NS",
     "address": "635 Portland Hills Dr, Dartmouth NS",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/The-Commons-On-Portland-480x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5072529",
+    "latitude": "44.6692821"
   },
   {
     "href": "https://burgerbash.ca/burgers/the-dukes-public-house/",
@@ -1376,8 +1376,8 @@
     "friendly-address": "15 SPECTACLE LAKE DR",
     "address": "15 SPECTACLE LAKE DR",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/IMG_9239-Amanda-Boutilier-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5830640",
+    "latitude": "44.7004343"
   },
   {
     "href": "https://burgerbash.ca/burgers/true-north-diner/",
@@ -1396,8 +1396,8 @@
     "friendly-address": "3187 Highway 2, Fall River, NS B2T 1J5",
     "address": "3187 Highway 2, Fall River, NS B2T 1J5",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/TB-Old-MacDonald-Burger-Jim-Black-520x397.jpeg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.6103623",
+    "latitude": "44.8135967"
   },
   {
     "href": "https://burgerbash.ca/burgers/tusket-falls-beer-project/",
@@ -1406,8 +1406,8 @@
     "friendly-address": "",
     "address": "2220 Gottingen Street, Halifax B3K 0H2",
     "image": "https://burgerbash.ca/wp-content/uploads/2025/03/Tusket-Falls-Beer-Project-520x397.jpg",
-    "longitude": "",
-    "latitude": "-63.5855541"
+    "longitude": "-63.5856987",
+    "latitude": "44.6534679"
   },
   {
     "href": "https://burgerbash.ca/burgers/vernons-thunderbird-diner/",
@@ -1426,8 +1426,8 @@
     "friendly-address": "1480 Queen St, Halifax, NS B3J 0L2",
     "address": "1480 Queen St, Halifax, NS B3J 0L2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/ViaCondotti-La-Ferrari-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "-63.5759207",
+    "latitude": "44.6428813"
   },
   {
     "href": "https://burgerbash.ca/burgers/water-polo-2/",
@@ -1436,8 +1436,8 @@
     "friendly-address": "1341 Lower Water St Unit 126, Halifax, NS B3J 3Z2",
     "address": "1341 Lower Water St Unit 126, Halifax, NS B3J 3Z2",
     "image": "https://burgerbash.ca/wp-content/uploads/2026/03/WaterPolo-Surf-Club-520x397.jpg",
-    "longitude": "",
-    "latitude": ""
+    "longitude": null,
+    "latitude": null
   },
   {
     "href": "https://burgerbash.ca/burgers/wave-foods-at-the-local/",
